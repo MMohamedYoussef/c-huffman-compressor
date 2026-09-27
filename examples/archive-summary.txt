@@ -1,0 +1,6 @@
+fixture: fixtures/message.txt
+original bytes: 8900
+archive bytes: 5840
+archive SHA-256: f47c6cd16093612796ddbc50fa1f86d2ce905682bc8c973301b08c60411cd574
+restored bytes: 8900
+round trip: identical
